@@ -49,9 +49,15 @@ I love building real-world applications, exploring machine learning, and improvi
 ---
 
 ## 📫 Connect With Me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikshit12saini)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nikshithansi@gmail.com)
+<p align="center">
+<a href="https://linkedin.com/in/nikshit12saini">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="140" height="35" />
+</a>
+&nbsp;
+<a href="mailto:nikshithansi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="140" height="35" />
+</a>
+</p>
 
 ---
 
