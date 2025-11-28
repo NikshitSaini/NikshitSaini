@@ -37,14 +37,6 @@ I love building real-world applications, exploring machine learning, and improvi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikshitsaini&show_icons=true&theme=radical" height="165"/>
-<img src="https://streak-stats.demolab.com?user=nikshitsaini&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🔥 Featured Projects
 
