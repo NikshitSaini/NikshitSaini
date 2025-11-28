@@ -32,7 +32,6 @@ I love building real-world applications, exploring machine learning, and improvi
 - 🧠 Solved **300+ LeetCode** problems  
 - 🔥 Earned **50-day streak badge twice**
 - 🧪 Building **Facial Recognition System** with Flask & Python
-- 🎶 Developing **Echo-style Music Player** for Ubuntu using Electron & React
 
 ---
 
@@ -43,6 +42,8 @@ I love building real-world applications, exploring machine learning, and improvi
 |--------|------------|------|
 | 🔐 **Auth System with OTP & JWT** | Secure authentication with PIN verification | Node.js, MongoDB, RN |
 | 🧠 **Facial Recognition System** | Face auth + email integration | Python, Flask, HTML/CSS |
+| 📱 **React Native App** | Full-stack RN app with authentication, storage & real-time database | React Native, Appwrite, Expo |
+
 
 ---
 
