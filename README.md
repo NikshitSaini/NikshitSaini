@@ -23,7 +23,6 @@ I love building real-world applications, exploring machine learning, and improvi
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 </p>
 
@@ -42,23 +41,18 @@ I love building real-world applications, exploring machine learning, and improvi
 
 | Project | Description | Tech |
 |--------|------------|------|
-| 🎶 **Echo Music Player (Ubuntu)** | Native audio player with playlists & UI like Echo | Electron, React |
 | 🔐 **Auth System with OTP & JWT** | Secure authentication with PIN verification | Node.js, MongoDB, RN |
 | 🧠 **Facial Recognition System** | Face auth + email integration | Python, Flask, HTML/CSS |
 
 ---
 
 ## 📫 Connect With Me
-<p align="center">
 <a href="https://linkedin.com/in/nikshit12saini">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="140" height="35" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="120" height="30" />
 </a>
-&nbsp;
 <a href="mailto:nikshithansi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="140" height="35" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="120" height="30" />
 </a>
-</p>
-
 ---
 
 ### 🌀 Visitors
