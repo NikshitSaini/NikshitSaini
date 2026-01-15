@@ -5,7 +5,6 @@ Hi! I'm **Nikshit Saini**, a passionate **AI & Full-Stack Developer** and **Reac
 I love building real-world applications, exploring machine learning, and improving my problem-solving skills on LeetCode.
 
 - 🔥 Currently learning **React Native**, **JavaScript**, & **Backend with Node.js**
-- 💻 Working on **Echo-style Music Player for Ubuntu (Electron App)**
 - 🎯 Goal: Become a Software Engineer & master system design
 - 🧠 Solved **200+ LeetCode problems** & earned multiple 50-day badges
 
