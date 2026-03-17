@@ -6,7 +6,7 @@ I love building real-world applications, exploring machine learning, and improvi
 
 - 🔥 Currently learning **React Native**, **JavaScript**, & **Backend with Node.js**
 - 🎯 Goal: Become a Software Engineer & master system design
-- 🧠 Solved **200+ LeetCode problems** & earned multiple 50-day badges
+- 🧠 Solved **350+ LeetCode problems** & earned multiple monthly streak ,50-day & 200-day badges
 
 ---
 
@@ -48,12 +48,11 @@ I love building real-world applications, exploring machine learning, and improvi
 
 ## 📫 Connect With Me
 <a href="https://linkedin.com/in/nikshit12saini">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="120" height="30" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:nikshithansi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="120" height="30" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
----
 
 ### 🌀 Visitors
 ![](https://komarev.com/ghpvc/?username=nikshitsaini&color=blueviolet&style=flat-square)
